@@ -1,0 +1,24 @@
+# ninja log v5
+1	1400	1672250051879373665	CMakeFiles/snake_game.dir/Game/GameObjects/gameObject.cpp.o	1df5af4e6e48b9ff
+4	1708	1672483124856505190	CMakeFiles/snake_game.dir/Game/GameObjects/Wall/Walls.cpp.o	d1693999083d2a31
+2	1122	1672251630363995668	CMakeFiles/snake_game.dir/Game/Background/Background.cpp.o	f4d917e5a856bed0
+1	808	1672485257747010249	CMakeFiles/snake_game.dir/main.cpp.o	d0c827c839507732
+2	2477	1672413463450243712	CMakeFiles/snake_game.dir/Game/Text/Score/Score.cpp.o	b91dfcc82b1ac9a3
+0	23	1676391139726158422	build.ninja	4d11ae1e00dd9c95
+8	10760	1672239741536493696	CMakeFiles/snake_game.dir/Game/Text/Text.cpp.o	3c033961d8d3f9f7
+2	1088	1672248614550960027	CMakeFiles/snake_game.dir/Game/Menu/Menu.cpp.o	b483dc00f0fefdf6
+796	923	1672835923769445085	snake_game	322b479ef40f789
+2	3798	1672576166476550699	CMakeFiles/snake_game.dir/Game/Game.cpp.o	804d87ced607c650
+3	1429	1672576375209318153	CMakeFiles/snake_game.dir/Game/GameObjects/Fruit/Fruit.cpp.o	b2144fe2d74a5896
+1	796	1672835923645441947	CMakeFiles/snake_game.dir/Game/GameObjects/Snake/Snake.cpp.o	d1bba1ec5cc9a99
+10	13190	1676394624084467719	CMakeFiles/snake_game.dir/Game/GameObjects/gameObject.cpp.o	1df5af4e6e48b9ff
+10	13202	1676394624092467776	CMakeFiles/snake_game.dir/main.cpp.o	d0c827c839507732
+13	13202	1676394624088467748	CMakeFiles/snake_game.dir/Game/Text/Score/Score.cpp.o	b91dfcc82b1ac9a3
+14	13216	1676394624120467976	CMakeFiles/snake_game.dir/Game/Text/Text.cpp.o	3c033961d8d3f9f7
+12	13226	1676394624132468062	CMakeFiles/snake_game.dir/Game/GameObjects/Fruit/Fruit.cpp.o	b2144fe2d74a5896
+13	13232	1676394624140468119	CMakeFiles/snake_game.dir/Game/Background/Background.cpp.o	f4d917e5a856bed0
+11	13240	1676394624148468176	CMakeFiles/snake_game.dir/Game/GameObjects/Snake/Snake.cpp.o	d1bba1ec5cc9a99
+11	13355	1676394624260468975	CMakeFiles/snake_game.dir/Game/Game.cpp.o	804d87ced607c650
+12	13424	1676394624336469517	CMakeFiles/snake_game.dir/Game/GameObjects/Wall/Walls.cpp.o	d1693999083d2a31
+13190	14596	1676394625504477851	CMakeFiles/snake_game.dir/Game/Menu/Menu.cpp.o	b483dc00f0fefdf6
+14596	14899	1676394625804479990	snake_game	322b479ef40f789

@@ -1,0 +1,3 @@
+/home/petroff/C++_Lessons/Common/sfml/SNAKE_GAME/snake_game/cmake-build-debug/CMakeFiles/snake_game.dir
+/home/petroff/C++_Lessons/Common/sfml/SNAKE_GAME/snake_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/petroff/C++_Lessons/Common/sfml/SNAKE_GAME/snake_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
